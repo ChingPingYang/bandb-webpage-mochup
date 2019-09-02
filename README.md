@@ -1,6 +1,6 @@
 
 # B&B Webpage_Mockup
-This is a B&B website. Bulit by HTML and CSS.
+Practice. Bulit by HTML and CSS.
 
 website: https://laughing-wing-5b23b6.netlify.com
 =======
